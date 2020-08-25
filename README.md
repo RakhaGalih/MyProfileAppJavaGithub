@@ -8,4 +8,4 @@ Registrasi
 
 Profil
 
-<img width="265" alt="sc2" src="https://user-images.githubusercontent.com/54633534/91115568-b1d13100-e6b4-11ea-8070-81c06a384d1a.png">
+<img width="267" alt="sc3" src="https://user-images.githubusercontent.com/54633534/91118219-a7b23100-e6ba-11ea-83b3-86330f614cc8.png">
